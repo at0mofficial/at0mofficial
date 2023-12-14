@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 ![Header Banner](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
-# Hello, I'm Shivam Sangwan
+# Hi, I'm Shivam Sangwan
 
 ## Full-Stack MERN Developer | Next.js Specialist | Tech Enthusiast
 
