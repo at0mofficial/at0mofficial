@@ -20,14 +20,20 @@
 
 ### Project Highlights
 
-1. **Food Delivery Website**
-   - [Link to Project Repo]
+1. **Spicy Lickz**
+   - https://spicy-lickz.shivamsangwan.dev/
 
-2. **Threads App Clone**
-   - [Link to Project Repo]
+2. **Nike - Landing Page**
+   - https://nike.shivamsangwan.dev/
 
-3. **WhatsApp Interface Clone**
-   - [Link to Project Repo]
+3. **Car Hub**
+   - https://car-hub.shivamsangwan.dev/
+
+4. **Threads Clone**
+   - https://threads.shivamsangwan.dev/
+
+5. **Art Finder**
+   - https://web422-as6.shivamsangwan.dev/
 
 ### Education
 
