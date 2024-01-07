@@ -37,7 +37,7 @@
 
 ### Education
 
-- Diploma in Computer Programming from Seneca Polytechnic.
+- Diploma of Education, Computer Programming - Web Development
 
 ### Tools & Technology
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,bootstrap,express,gcp,git,github,heroku,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,stackoverflow,c,cpp,tailwind,ts,vercel)
