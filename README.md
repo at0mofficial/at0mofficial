@@ -15,7 +15,7 @@
 - Back-End: Node.js, Express.js, RESTful APIs, MongoDB.
 - Authentication: JWT tokens, Express sessions, OAuth.
 - Version Control: Git, GitHub.
-- Tools: Auth.js, ThunderClient, headlessUI.
+- Tools: Auth.js, ThunderClient, headlessUI, Docker
 - Languages: JavaScript, TypeScript, SQL, C++.
 
 ### Project Highlights
