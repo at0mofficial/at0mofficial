@@ -40,7 +40,7 @@
 - Diploma of Education, Computer Programming - Web Development
 
 ### Tools & Technology
-![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,bootstrap,express,gcp,git,github,heroku,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,stackoverflow,c,cpp,tailwind,ts,vercel)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,bootstrap,express,gcp,git,github,heroku,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,stackoverflow,c,cpp,tailwind,ts,docker,vercel)
 
 ### Let's Connect
 [![Let's Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-shivam-sangwan)
