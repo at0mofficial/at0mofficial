@@ -12,7 +12,7 @@
 
 ### Key Skills
 - Front-End: React.js, Tailwind CSS, Bootstrap, Material-UI.
-- Back-End: Node.js, Express.js, RESTful APIs, MongoDB.
+- Back-End: Node.js, Express.js, RESTful APIs, MongoDB, postgreSQL
 - Authentication: JWT tokens, Express sessions, OAuth.
 - Version Control: Git, GitHub.
 - Tools: Auth.js, ThunderClient, headlessUI, Docker
